@@ -1,8 +1,16 @@
+<div align="center">
+
+![Son Kış](docs/baslik.png)
+
 # Son Kış
 
 *bir Nardugan masalı* — Winterdeveloper
 
-![Son Kış](docs/baslik.png)
+[![İndir](https://img.shields.io/badge/⬇_İndir-Windows_64_bit-4fb3e0?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Enskygr234/son-kis/releases/latest)
+[![.NET 8](https://img.shields.io/badge/.NET-8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download/dotnet/8.0)
+[![Oyun](https://img.shields.io/badge/tür-macera_·_RPG-f0a03c?style=for-the-badge)](#nasıl-oynanır)
+
+</div>
 
 Gün üç gündür doğmuyor. Nar, ninesinin ocağından aldığı koru fenerine koyar ve Gün Ocağı'nı yeniden yakmak için zirveye doğru yola çıkar. Yolda Anadolu ve Türk masallarının ruhları bekliyor: Karakoncolos, Telli Turna, Börü, Çarşamba Karısı, Şahmeran, Tepegöz ve zirvede Ayaz Ata.
 
